@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Almoxarifado",
+  "description": "Sistema completo, moderno e responsivo para controle de almoxarifado, retiradas com identificação obrigatória e painel administrativo com auditoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
